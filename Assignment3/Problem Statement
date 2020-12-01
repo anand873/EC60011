@@ -1,0 +1,2 @@
+1. Build a 30 node Random Binary Tree. (Should not be a complete binary tree)
+2. Write functions for traversing the “random binary tree” in pre-order.(print data field while traversing).Write recursive and non-recursive functions for pre-order traversal.

@@ -1,0 +1,2 @@
+Write a program to return the best position of tic tac toe, where inputs by user will be board position and whose turn it is (X or O). 
+More lookaheads preferred. (preferably 4)

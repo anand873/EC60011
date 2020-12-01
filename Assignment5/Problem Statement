@@ -1,0 +1,18 @@
+Write a program for performing Insertion and Deletion in a Red Black Tree.
+
+Given a series of numbers you have to insert the nodes in the given order. After insertion of all nodes perform Level order traversal with their colors.
+0 - Black
+1 - Red
+
+After that numbers will be given to perform a delete operation on the tree. 
+After each deletion again you have to show the contents of the tree by performing Level Order Traversal with their colors.
+
+Input:
+N: denoting number of nodes;
+arr[N]: Nodes to be inserted;
+M: No of nodes to be deleted
+X: Nodes to be deleted
+
+Output:
+First line with Level Order Traversal after inserting N nodes.
+Next M lines with Level Order Traversal after each deletion.
